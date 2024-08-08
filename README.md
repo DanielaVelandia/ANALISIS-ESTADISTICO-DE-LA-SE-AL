@@ -51,3 +51,4 @@ El codigo se realizo descargando una señal desde la pagina de physionet, se des
 En caso de descargar otra señal, cambiar el nombre de la señal:
 >	 signal = wfdb.rdrecord( '______' )
 
+
