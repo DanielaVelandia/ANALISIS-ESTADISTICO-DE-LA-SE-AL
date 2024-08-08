@@ -24,6 +24,7 @@ Además, se utilizó un **histograma** como herramienta gráfica para representa
 
  
 La **función de probabilidad** es una función matemática que tiene como objetivo describir la probabilidad de que una variable aleatoria tome un valor específico o se encuentre dentro de un intervalo de valores
+
 ![](https://imgur.com/wzJz8V4.png)
 >Función de probabilidad con una curva desplazada hacia la izquierda
 
