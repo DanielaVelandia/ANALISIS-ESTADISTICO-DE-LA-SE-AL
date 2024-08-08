@@ -19,8 +19,9 @@ En primer lugar, se calculó la**media**, que es una medida de tendencia central
 Así mismo, se determinó la **desviación estándar**, una medida estadística que cuantifica la variabilidad o dispersión de los datos respecto a su media.
 El **coeficiente de variación (CV)** es otra medida estadística que expresa la desviación estándar en relación con la media del conjunto de datos, y se emplea para comparar la variabilidad entre diferentes conjuntos de datos.
 Además, se utilizó un **histograma** como herramienta gráfica para representar la distribución de los datos. El histograma muestra la frecuencia de los datos dentro de intervalos o rangos específicos, proporcionando una visualización clara de la distribución de los valores en el conjunto de datos.
-![](https://imgur.com/UaovcLA.png)
 
+![](https://imgur.com/UaovcLA.png)
+>Histograma de la señal ECG
 
  
 La **función de probabilidad** es una función matemática que tiene como objetivo describir la probabilidad de que una variable aleatoria tome un valor específico o se encuentre dentro de un intervalo de valores
